@@ -580,7 +580,8 @@
   line-height: 1.45;
   background-color: #F2F5FA;
   border-radius: 2px;
-  margin: 12px;
+  margin: 12px 0;
+  padding-left: 7px;
 }
 
 .markdown-body pre code {
